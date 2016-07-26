@@ -7,4 +7,4 @@
 -movies
 -math
 
-Important Link [link] (http://www.google.com).
+Important Link [google] (http://www.google.com).
